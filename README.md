@@ -4,4 +4,4 @@ SpeechSync Hub
 
 -> Provides a wide library of voices to choose from.
 
-Try it out at: 
+Try it out at: https://usaketh.github.io/SpeechSync-Hub/
